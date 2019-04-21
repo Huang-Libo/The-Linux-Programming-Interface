@@ -1,6 +1,6 @@
 # 资源
 
-<img src="http://man7.org/tlpi/cover/TLPI-front-cover.png" width="50%" height="50%">  
+<img src="./media/TLPI-front-cover.png" width="30%" height="30%">  
 
 作者维护的资源网站：http://man7.org/tlpi/  
 随书源码：http://man7.org/tlpi/code/index.html   
